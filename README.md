@@ -100,3 +100,37 @@ El proyecto se desarrolló siguiendo un flujo estructurado:
 - Implementar acciones de retención para usuarios de alto valor
 - Crear incentivos para aumentar el engagement de usuarios de bajo uso
 - Mejorar controles de calidad de datos en origen
+
+Guía de Reproducción
+
+Para reproducir el análisis:
+
+Asegurarse de contar con los 3 datasets en la misma carpeta
+
+- Ejecutar el notebook desde el inicio
+
+- Seguir el flujo:
+
+    Limpieza de datos
+
+    Análisis exploratorio
+
+    Visualización
+
+    Segmentación
+
+    Revisar las conclusiones al final del notebook
+  
+-  Herramientas Utilizadas
+
+    Python
+
+    Pandas
+
+    NumPy
+
+    Matplotlib
+    
+    Seaborn
+
+    Jupyter Notebook
